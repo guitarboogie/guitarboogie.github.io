@@ -1,3 +1,5 @@
+* result
+  * https://guitarboogie.github.io
 * deploy
   * 현재 코드를 빌드하고 그 결과물(index.html, resrouce 등)만 gh-pages 브랜치에 올려줌
   * npm install gh-pages --save-dev
